@@ -1,5 +1,5 @@
 # weather-app
-Weather App using Node js and asyn-await and axios library.
+Weather App using Node js and async-await and axios library.
 
 Using Google maps Api to find lat and long and Dark Sky api for fetching the weather details of the location using lat & long.
 
